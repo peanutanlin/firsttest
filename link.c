@@ -1,6 +1,7 @@
 //2014-11-0611122222222222
 #include<stdio.h>
 #include<stdlib.h>
+#include <string.h>
 int count;
 typedef struct COMPONENT
 {
