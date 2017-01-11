@@ -1,0 +1,1 @@
+C:\Application\Git\bin\gitbash.exe up.sh
